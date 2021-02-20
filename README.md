@@ -1,2 +1,3 @@
 # channel
-https://doublecase.github.io/channel/
+
+https://doublecase.github.io/channel/.
